@@ -9,7 +9,7 @@
 
 | No. |  Telegram ID | Twitter ID | Discord ID | Rank | Region |
 | --- | --- | --- | --- | --- | --- |
-| 1 | @actlee |	https://twitter.com/spmlaihm |	pithecus#9288 |	All Star |	Belgium |
+| 1 | @actlee |	https://twitter.com/spmlaihm |	pithecus#9288 |	All Star | South Korea |
 | 2 | @pitcoin777 | https://twitter.com/pitcoin_ | pitcoin #3857	| All Star	| Brazil |
 | 3 | @Graves_you |	https://x.com/graves_you |	Graves_you#0482 |	All Star |	China |
 | 4 | @marveLet |	https://twitter.com/rudayruday |	marvelet#8647 |	All Star |	Indonesia |
@@ -27,14 +27,13 @@
 | 16 | @tksarah0822 | https://twitter.com/tsarah0822 |	tksarah#8215 |	All Star |	Japan |
 | 17 | @ahjxcrz |	https://twitter.com/cao_lab |	DrCAO#1508 |	Protostar |	USA |
 | 18 | @guigou12358 |	https://twitter.com/GuiGou12358 |	GuiGou#1021	| All Star	| France |
-| 19 | @Matt_Web3 |	<https://twitter.com/Matt_Web3_> |	Matt_Web3#3333 |	All Star |	Czech |
-| 20 | @Juminstock	| https://twitter.com/Juminstock |	Juminstock#8856 |	Protostar |	Colombia |
-| 21 | @Emret16 |	https://twitter.com/mr_karahanl |	mr.karahanli_emre_ |	Protostar |	Turkey |
-| 22 | @Sequaja |	https://twitter.com/Seq921 |	Sequaja#3605 |	Protostar |	Germany |
-| 23 | @Max_eth_healthy | https://x.com/max_eth_healthy | max.eth.healthy | Protostar | France |
-| 24 | @bao1993jp | https://x.com/bao1993jp	| bao |	Protostar |	Japan |
-| 25 | @Fedec87p | https://x.com/FedeC87| fedec87p | Protostar |	Italy |
-| 26 | @SimonBrt | https://x.com/simonebortolan | simone_bortolan | Protostar |	Italy |
+| 19 | @Matt_Web3 | https://twitter.com/Matt_Web3_ |	Matt_Web3#3333 |	All Star |	Czech |
+| 20 | @Emret16 |	https://twitter.com/mr_karahanl |	mr.karahanli_emre_ |	Protostar |	Turkey |
+| 21 | @Sequaja |	https://twitter.com/Seq921 |	Sequaja#3605 |	Protostar |	Germany |
+| 22 | @Max_eth_healthy | https://x.com/max_eth_healthy | max.eth.healthy | Protostar | France |
+| 23 | @bao1993jp | https://x.com/bao1993jp	| bao |	Protostar |	Japan |
+| 24 | @Fedec87p | https://x.com/FedeC87| fedec87p | Protostar |	Italy |
+| 25 | @SimonBrt | https://x.com/simonebortolan | simone_bortolan | Protostar |	Italy |
 
 ---
-Updated on the 30th September 2024
+Updated on May 27th, 2025
